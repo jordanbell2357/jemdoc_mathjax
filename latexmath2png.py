@@ -1,4 +1,4 @@
-#!/usr/bin/python2.5
+#!/usr/bin/python3
 #from __future__ import with_statement # Until Python 2.6
 """
 Converts LaTeX math to png images.
